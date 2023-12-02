@@ -7,7 +7,7 @@ spring:
     type: com.alibaba.druid.pool.DruidDataSource
     url: jdbc:mysql://localhost:3306/essc?serverTimezone=GMT%2b8
     username: root
-    password: yuan0530
+    password: 
 
 mybatis:
   type-aliases-package: work.huangxin.mango.model
