@@ -1,0 +1,303 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="mango:war exploded" />
+    </artifacts-to-build>
+  </component>
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="a30eee88-47b8-4cad-8e7b-bc163d8208ef" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/.name" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/后台源码.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../前台源码/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/../前台源码/app.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../前台源码/app.json" beforeDir="false" afterPath="$PROJECT_DIR$/../前台源码/app.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../前台源码/images/other/1.png" beforeDir="false" afterPath="$PROJECT_DIR$/../前台源码/images/other/1.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../前台源码/images/other/ad_bottom.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../前台源码/images/other/index.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../前台源码/images/other/logo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../前台源码/images/tabBar/shangpin.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../前台源码/images/tabBar/shangpin_active.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../前台源码/music/new.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../前台源码/pages/agreement/agreement.wxml" beforeDir="false" afterPath="$PROJECT_DIR$/../前台源码/pages/agreement/agreement.wxml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../前台源码/pages/index/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/../前台源码/pages/index/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../前台源码/pages/index/index.wxml" beforeDir="false" afterPath="$PROJECT_DIR$/../前台源码/pages/index/index.wxml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../前台源码/pages/index/index.wxss" beforeDir="false" afterPath="$PROJECT_DIR$/../前台源码/pages/index/index.wxss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../前台源码/pages/me/me.js" beforeDir="false" afterPath="$PROJECT_DIR$/../前台源码/pages/me/me.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../前台源码/pages/me/me.wxml" beforeDir="false" afterPath="$PROJECT_DIR$/../前台源码/pages/me/me.wxml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../前台源码/pages/me_about/me_about.js" beforeDir="false" afterPath="$PROJECT_DIR$/../前台源码/pages/me_about/me_about.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../前台源码/pages/me_about/me_about.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../前台源码/pages/me_about/me_about.wxml" beforeDir="false" afterPath="$PROJECT_DIR$/../前台源码/pages/me_about/me_about.wxml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../前台源码/pages/me_about/me_about.wxss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../前台源码/pages/shop/shop.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../前台源码/pages/shop/shop.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../前台源码/pages/shop/shop.wxml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../前台源码/pages/shop/shop.wxss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../前台源码/pages/shop_detail/shop_detail.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../前台源码/pages/shop_detail/shop_detail.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../前台源码/pages/shop_detail/shop_detail.wxml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../前台源码/pages/shop_detail/shop_detail.wxss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../前台源码/pages/welcome/welcome.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../前台源码/pages/welcome/welcome.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../前台源码/pages/welcome/welcome.wxml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../前台源码/pages/welcome/welcome.wxss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../前台源码/project.config.json" beforeDir="false" afterPath="$PROJECT_DIR$/../前台源码/project.config.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources.local.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources.local.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources/c411d75a-6309-43a4-90b2-5e14c73e1773.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources/c411d75a-6309-43a4-90b2-5e14c73e1773.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/jarRepositories.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/work/huangxin/mango/controller/LoginController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/work/huangxin/mango/controller/LoginController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/application.yml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="mango_new_life@localhost" type="feb32156:DbDataSourceImpl" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="mango_new_life@localhost" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="mango_new_life@localhost" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="mango_new_life: schema" type="c314c289:MysqlImplModel$Schema" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="mango_new_life@localhost" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="mango_new_life: schema" type="c314c289:MysqlImplModel$Schema" />
+        <item name="mango_new_message: table" type="98d5ac3d:MysqlImplModel$Table" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="mango_new_life@localhost" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="mango_new_life: schema" type="c314c289:MysqlImplModel$Schema" />
+        <item name="mango_shop_images: table" type="98d5ac3d:MysqlImplModel$Table" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="mango_new_life@localhost" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="mango_new_life: schema" type="c314c289:MysqlImplModel$Schema" />
+        <item name="mango_user: table" type="98d5ac3d:MysqlImplModel$Table" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>System</find>
+      <find>left</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="LogFilters">
+    <option name="FILTER_ERRORS" value="false" />
+    <option name="FILTER_WARNINGS" value="false" />
+    <option name="FILTER_INFO" value="true" />
+    <option name="FILTER_DEBUG" value="true" />
+    <option name="CUSTOM_FILTER" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="D:/mevan/apache-maven-3.9.4" />
+        <option name="userSettingsFile" value="D:\mevan\apache-maven-3.9.4\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 6
+}</component>
+  <component name="ProjectId" id="1qEe9gRs51NGCThyBukQTUXwUUI" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RequestMappingsPanelOrder0": "0",
+    "RequestMappingsPanelOrder1": "1",
+    "RequestMappingsPanelWidth0": "75",
+    "RequestMappingsPanelWidth1": "75",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "git-widget-placeholder": "master",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "project.structure.last.edited": "问题",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "MavenSettings",
+    "spring.configuration.checksum": "aa00faf97d042c13a59da4d27eb32358",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="work.huangxin.mango.model" />
+      <recent name="work.huangxin" />
+      <recent name="work.huangxin.mango.otherMethod" />
+      <recent name="work.huangxin.mango.basemapper" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Administrator\Desktop\mango\src\main\java\work\huangxin\mango" />
+      <recent name="C:\Users\Administrator\Desktop\mango\src\main" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="MiniProgramRunApp" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="mango" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="work.huangxin.mango.MiniProgramRunApp" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="work.huangxin.mango.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Spring Boot.MiniProgramRunApp" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="应用程序级" UseSingleDictionary="true" transferred="true" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a30eee88-47b8-4cad-8e7b-bc163d8208ef" name="Default Changelist" comment="" />
+      <created>1565852073923</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1565852073923</updated>
+      <workItem from="1565852077338" duration="15336000" />
+      <workItem from="1565914695301" duration="33400000" />
+      <workItem from="1566007039584" duration="27542000" />
+      <workItem from="1566046393866" duration="4159000" />
+      <workItem from="1566116705047" duration="2729000" />
+      <workItem from="1566396692982" duration="1926000" />
+      <workItem from="1566974135762" duration="162000" />
+      <workItem from="1567129619545" duration="4280000" />
+      <workItem from="1567431645528" duration="648000" />
+      <workItem from="1567775890678" duration="68000" />
+      <workItem from="1569128826449" duration="1475000" />
+      <workItem from="1569413749410" duration="3000" />
+      <workItem from="1569993836482" duration="4491000" />
+      <workItem from="1570008220591" duration="481000" />
+      <workItem from="1570163701912" duration="633000" />
+      <workItem from="1570349398607" duration="1913000" />
+      <workItem from="1574341464738" duration="179000" />
+      <workItem from="1574341698626" duration="703000" />
+      <workItem from="1574392208287" duration="31000" />
+      <workItem from="1574392806198" duration="48000" />
+      <workItem from="1576895078732" duration="3510000" />
+      <workItem from="1576905741410" duration="584000" />
+      <workItem from="1577437569743" duration="604000" />
+      <workItem from="1577505079983" duration="40000" />
+      <workItem from="1578449080107" duration="247000" />
+      <workItem from="1578469151169" duration="37000" />
+      <workItem from="1578473921691" duration="853000" />
+      <workItem from="1578476174156" duration="766000" />
+      <workItem from="1578478322133" duration="38000" />
+      <workItem from="1578478377739" duration="946000" />
+      <workItem from="1578537777235" duration="110000" />
+      <workItem from="1578554046017" duration="707000" />
+      <workItem from="1578574806488" duration="276000" />
+      <workItem from="1616649027820" duration="95000" />
+      <workItem from="1701501448053" duration="6247000" />
+      <workItem from="1701514087714" duration="618000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="antWorkspaceConfiguration">
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
+    <option name="FILTER_TARGETS" value="false" />
+  </component>
+</project>
